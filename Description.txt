@@ -1,0 +1,5 @@
+Author :  Talha Kilic <mntalha>
+
+<September 15 2021>
+
+Purpose : Illustrate how to show output of images between hidden layers.
